@@ -1,0 +1,53 @@
+.glo{
+    text-align: center;
+    text-decoration: underline;
+    margin-right: 20px;
+}
+.h1{
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    height: 150px;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+body{
+    background-color: azure;
+}
+.h2{
+    text-align: center;
+}
+.car{
+    border-radius: 50%;
+}
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: #fff; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    margin: 10px;
+    margin-left: 580px; 
+    transition: 0.5s;
+    height: 20px;
+    padding-top: 10px;
+}
+.button:hover{
+    background-color: #000;
+}
+.button1{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: #fff; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    margin: 10px;
+    margin-left: 1200px; 
+    transition: 0.5s;
+}
+.button1:hover{
+    background-color: #000;
+}
